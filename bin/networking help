@@ -1,0 +1,14 @@
+java.net.*;
+
+IP Address + Port No
+
+port no is used to identify the application running on the server
+socket is made up of ip and port number to connect to the server
+socket programming
+
+
+
+http protocol--- connection less
+TCP/IP is connection oriented protocol
+or 
+UDP
